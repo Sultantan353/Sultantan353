@@ -1,3 +1,4 @@
+<html>
 <svg fill="none" viewBox="0 0 600 400" width="600" height="400" xmlns="http://www.w3.org/2000/svg"></svg>
 <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
@@ -193,6 +194,7 @@ h1 {
         }
       }
     </style>
+    <body></body>
     <div class='body'>
         <div class='container'>
             <h1>
@@ -237,3 +239,5 @@ h1 {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sultantan353&show_icons=true&locale=en" alt="sultantan353" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultantan353&" alt="sultantan353" /></p>
+</body>
+</html>
